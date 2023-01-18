@@ -39,6 +39,30 @@ address{
   text-align: center;
 }
 
+  a{
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #4F3674;
+    text-decoration: none;
+  }
+  
+  a: hover{
+    text-decoration: underline;
+    background-color: #D6A800;
+  }
+  
+  a: visited{
+    color: #c00bab;
+  }
+  
+  .sentence{
+    font-style: italic;
+  }
+  
+  .intro{
+    text-indent: .2em;
+  }
+
 
 
     
