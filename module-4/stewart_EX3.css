@@ -7,10 +7,11 @@ h1 {
     display: inline-block;
     width: 45%;
     font-family: 'Oswald', Verdana, Arial, sans-serif;
-    border: 1px solid red;
+    border: 1px dashed red;
     border-radius: 15px;
     padding: 10px;
     list-style-position: inside;
+    float: right;
   }
   
   #rightDiv {
@@ -22,6 +23,13 @@ h1 {
     padding: 10px;
     list-style-position: inside;
     float: right;
+    display: inline-block;
+    width: 45%;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 10px;
+    list-style-position: inside;
   }
   
   ul {
