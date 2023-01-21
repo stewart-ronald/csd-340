@@ -1,3 +1,22 @@
 h1{
-font-family: 'Oswald', Verdana, Arial, sans-serif;
+    text-align: center;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+
+#rightDiv{
+    width: 45%;
+    margin-left: 50%;
+
+}
+
+#leftDiv{
+    width: 45%;
+    float: left;
+
+}
+
+#lastDiv{
+    width: 100%;
+    margin-top: 60%;
+
 }
