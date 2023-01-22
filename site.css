@@ -3,9 +3,9 @@ body {
 }
 
 #container {
-  margin-top: 50px;
   margin-left: 100px;
   margin-right: 100px;
+  margin-top: 50px;
 }
 
 h1,
@@ -13,8 +13,8 @@ h2,
 h3,
 h4 {
   background-color: #3c275a;
-  color: #fff;
   border: 1px solid #d6a800;
+  color: #fff;
   padding: 10px;
 }
 
