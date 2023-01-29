@@ -45,20 +45,3 @@ body {
     font-weight: 400;
     color: rgba(185, 63, 8);
   }
-
-  a:link {
-    font-family: 'Oswald', sans-serif;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
-  #landing-page {
-    width: 100%;
-    margin-top: 60%;
-    float: right;
-    margin-bottom: 20px;
-  }
-
