@@ -45,3 +45,16 @@ body {
     font-weight: 400;
     color: rgba(185, 63, 8);
   }
+
+  a:link {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  #landing-page {
+    float: right;
+  }
