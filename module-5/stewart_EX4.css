@@ -45,3 +45,7 @@ body {
     font-weight: 400;
     color: rgba(185, 63, 8);
   }
+
+  .landing-page{
+    float: right;
+  }
