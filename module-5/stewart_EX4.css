@@ -1,15 +1,16 @@
 body {
     background-color: rgba(247, 112, 24, 0.2);
   }
-
-.image-gallery {
+  
+  .image-gallery {
     display: grid;
     grid-template-columns: auto auto auto;
     margin-top: 10%;
-  
   }
   
-  .image-1, .image-2, .image-3 {
+  .image-1,
+  .image-2,
+  .image-3 {
     border: solid rgba(185, 63, 8);
     border-radius: 15px;
     padding: 5px;
@@ -17,9 +18,10 @@ body {
     text-align: center;
   }
   
-  h1, h3 {
+  h1,
+  h3 {
     text-align: center;
-    font-family: 'Oswald', sans-serif;
+    font-family: "Oswald", sans-serif;
     font-weight: 400;
     color: rgba(185, 63, 8);
   }
@@ -36,7 +38,7 @@ body {
   figcaption {
     font-style: italic;
     font-size: 0.75em;
-    font-family: 'Oswald', sans-serif;
+    font-family: "Oswald", sans-serif;
     font-weight: 400;
     color: rgba(185, 63, 8);
   }
