@@ -1,26 +1,32 @@
 header{
-
-
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
 
 h1{
-
-
+    font-weight: 400;
 }
 
 #navbar{
-
-
+    overflow: hidden;
+    background-color: blue;
+    border-bottom: solid 15px red;
 }
 
 #navbar a{
-
-
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 #navbar a:hover{
-
-
+    background-color: turquoise;
+    color: deeppink;
 }
 
 #container{
@@ -61,7 +67,7 @@ footer a{
 
 footer a:hover{
 
-    
+
 }
 
 
