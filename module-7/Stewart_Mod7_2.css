@@ -30,23 +30,27 @@ h1{
 }
 
 #container{
-
-
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
 }
 
 .card{
-
-
+    box-shadow: 0 4px 8px 0 and an rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 50%;
 }
 
 .card-title{
-
-
+    text-align: center;
+    font-size: 2em;
+    color:blueviolet;
+    font-weight: 400;
 }
 
 .card-content{
-
-
+    padding: 2px 16px;
 }
 
 
