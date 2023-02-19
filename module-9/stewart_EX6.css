@@ -30,10 +30,7 @@ h1{
 }
 
 #container{
-    margin-top: 2%;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding: 10px;
+    margin: 2% 5% 100px 5%;
 }
 
 .card{
@@ -57,10 +54,28 @@ h1{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
+#movies {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  #movies th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+  }
+  
+  #movies td {
+    border: solid 1px #ddd;
+    padding: 8px;
+  }
+
 footer{
     background-color: blueviolet;
-    position: absolute;
+    position: fixed;
     bottom: 0;
+    left: 0;
     width: 100%;
 }
 
