@@ -54,23 +54,23 @@ h1{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
-#movies{
+#movies {
     border-collapse: collapse;
     width: 100%;
     margin-bottom: 30px;
   }
   
-  #movies th{
-    background-color: blueviolet;
-    color: white;
+  #movies th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
+    background-color: blueviolet;
+    color: white;
     border: solid 1px #ddd;
     padding: 8px;
   }
   
-  #movies td{
+  #movies td {
     border: solid 1px #ddd;
     padding: 8px;
   }
